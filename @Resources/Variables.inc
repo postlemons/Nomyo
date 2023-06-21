@@ -4,17 +4,14 @@ Unit=m
 Format=#I
 Hidden=1
 Hidden2=0
-UserName=Just-Matsuki
 
-;;;;;;Colors
-
-ShapeColor=0176A2
-LineColor=FEFEFE
+ShapeColor=2F3042
+LineColor=ED0E0E
 FontColor=FFFFFF
-ShapeStrokeColor=FEFEFE
-
-;;;;;;Scale
+ShapeStrokeColor=FFFFFF
 
 StrokeWidth=3
-Scale=1.35
 Text="t"
+Center=1
+ScolorBG=0F9D04
+ScolorBG2=000000
