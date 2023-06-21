@@ -15,7 +15,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ### Clock
 
 <img style="display:flex;margin:auto;align-items:center;" alt="Screenshot of the skin" src="https://i.imgur.com/PbHkEeC.png">
----
+
 You can fully customize its look by heading to the settings panel.
 
 > Note: the skin currently doesn't support 24H format, I'm looking into adding it soon
@@ -25,6 +25,20 @@ You can fully customize its look by heading to the settings panel.
 ![Screenshot of the skin](https://i.imgur.com/bSDMTZp.png)
 
 You can open the settings menu by right clicking the skin 'n choosing `Open Settings`
+
+Supported Customizations:
+
+| Setting                    | Supported          |
+| -------------------------- | :----------------: |
+| Font color                 | :white_check_mark: |
+| Scale                      | :white_check_mark: |
+| Auto Center                | :white_check_mark: |
+| Time Format                | :x:                |
+| Stroke Width for the Shape | :white_check_mark: |
+| Shadow for meters          | :x:                |
+| Custom Fonts               | :x:                |
+
+> An :x: doesn't mean that the feature won't be implemented, it's just an indicator for the availability of it
 
 ### Weather (Coming Soon)
 
