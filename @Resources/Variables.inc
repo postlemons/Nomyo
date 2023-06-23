@@ -14,4 +14,4 @@ ScolorBG2=000000
 ScolorBGY=000000
 ScolorBGY2=0F9D04
 Font=Anurati
-SkinVersion=1.5.4
+SkinVersion=1.5.6
