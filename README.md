@@ -34,7 +34,7 @@ Supported Customizations:
 | Time Format (24H)          | 🕛                |
 | Stroke Width for the Shape | :white_check_mark: |
 | Custom Shadow for meters   | ​:no_entry:<br>(Makes the skin consume more resources) |
-| Custom Text Fonts          | 🕛                |
+| Custom Text Fonts          | :white_check_mark: |
 | Custom Clock Fonts         | :no_entry:<br>(May break the skin look |
 
 > :x:: Currently unavalible<br>⛔: Won't be implemented<br>:clock12:: Coming Soon<br>:white_check_mark:: Implemented
