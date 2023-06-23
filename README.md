@@ -16,10 +16,6 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 <img style="display:flex;margin:auto;align-items:center;" alt="Screenshot of the skin" src="https://i.imgur.com/PbHkEeC.png">
 
-You can fully customize its look by heading to the settings panel.
-
-> Note: the skin currently doesn't support 24H format, I'm looking into adding it soon
-
 ### Settings
 
 ![Screenshot of the skin](https://i.imgur.com/bSDMTZp.png)
@@ -28,17 +24,20 @@ You can open the settings menu by right clicking the skin 'n choosing `Open Sett
 
 Supported Customizations:
 
-| Setting                    | Supported          |
+| Setting                    | Availability       |
 | -------------------------- | :----------------: |
-| Font color                 | :white_check_mark: |
-| Scale                      | :white_check_mark: |
-| Auto Center                | :white_check_mark: |
-| Time Format                | :x:                |
+| Font color  (Clock/Text    | :white_check_mark: |
+| Shapes color               | :white_check_mark: |
+| Scale (Hover & Scroll)     | :white_check_mark: |
+| Auto Center  X             | :white_check_mark: |
+| Auto Center  Y             | :white_check_mark: |
+| Time Format (24H)          | 🕛                |
 | Stroke Width for the Shape | :white_check_mark: |
-| Shadow for meters          | :x:                |
-| Custom Fonts               | :x:                |
+| Custom Shadow for meters   | ​:no_entry:<br>(Makes the skin consume more resources) |
+| Custom Text Fonts          | 🕛                |
+| Custom Clock Fonts         | :no_entry:<br>(May break the skin look |
 
-> An :x: doesn't mean that the feature won't be implemented, it's just an indicator for the availability of it
+> :x:: Currently unavalible<br>⛔: Won't be implemented<br>:clock12:: Coming Soon<br>:white_check_mark:: Implemented
 
 ### Weather (Coming Soon)
 
@@ -46,9 +45,9 @@ Supported Customizations:
 
 ## How to download
 
-To downloading the skin, refer to [Releases Section](https://github.com/just-matsuki/Nomyo/releases) 'n choose the release you want (download the .mskin file)
+to download the skin, refer to [Releases Section](https://github.com/just-matsuki/Nomyo/releases) 'n choose the latest stable release (download the .mskin file)
 
 ## Bug reports
 
-for any bug reports, please open an issue at [the issue section](https://github.com/itsmohamed205/Nomyo/issues)
+for any bug reports, please open an issue at [issues section](https://github.com/itsmohamed205/Nomyo/issues)
 
