@@ -20,7 +20,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ![Screenshot of settings](https://i.imgur.com/0ABcohQ.png)
 
-You can open the settings menu by right clicking the skin 'n choosing `Open Settings`
+You can open the settings menu by right-clicking the skin and choosing `Open Settings`
 
 Supported Customizations:
 
@@ -33,19 +33,17 @@ Supported Customizations:
 | Auto Center  Y             | :white_check_mark: |
 | Time Format (24H)          | 🕛                |
 | Stroke Width for the Shape | :white_check_mark: |
-| Custom Shadow for meters   | ​:no_entry:<br>(Makes the skin consume more resources) |
 | Custom Text Fonts          | :white_check_mark: |
-| Custom Clock Fonts         | :no_entry:<br>(May break the skin look |
 
-> :x:: Currently unavalible<br>⛔: Won't be implemented<br>:clock12:: Coming Soon<br>:white_check_mark:: Implemented
+> :clock12:: Coming Soon<br>:white_check_mark:: Implemented
 
 ### Weather (Coming Soon)
 
-> stay tuned, I'm planning to add it soon :smiley:
+> Stay tuned, I'm planning to add it soon :smiley:
 
 ## How to download
 
-to download the skin, refer to [Releases Section](https://github.com/just-matsuki/Nomyo/releases) 'n choose the latest stable release (download the .mskin file)
+to download the skin, refer to [Releases Section](https://github.com/just-matsuki/Nomyo/releases) and choose the latest stable release (download the .mskin file)
 
 ## Bug reports
 
