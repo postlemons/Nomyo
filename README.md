@@ -14,11 +14,13 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ### Clock
 
-![screenshot for the clock](https://i.imgur.com/lnMTVnC.png)
+![Screenshot of the clock](https://github.com/user-attachments/assets/d54548d4-f091-481e-b99a-735979676804)
 
-### Settings
 
-![Screenshot of settings](https://i.imgur.com/0ABcohQ.png)
+### Settings Panel
+
+![Screenshot of the settings panel](https://github.com/user-attachments/assets/48832e2b-cb2c-45d8-8a38-55a25e8fd24c)
+
 
 You can open the settings menu by right-clicking the skin and choosing `Open Settings`
 
